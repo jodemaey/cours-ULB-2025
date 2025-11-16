@@ -19,10 +19,21 @@ En outre, le cours se clôture sur l'étude d'un modèle plus avancé, intégran
 
 ## Installation requise
 
-Pour installer qgs et ces exercices, vous devez d'abord installer [Anaconda](https://www.anaconda.com/) sur 
-votre ordinateur portable. Ensuite, clonez le dépôt qgs et suivez 
-les [instructions d'installation](https://github.com/Climdyn/qgs#installation). 
-Vous pouvez ensuite copier les notebooks de cette série dans le **répertoire racine** de qgs et le tour est joué !
+Pour installer qgs et ces exercices, vous devez d'abord installer qgs sur votre ordinateur.
+Suivez pour ce faire les [instructions d'installation](https://github.com/Climdyn/qgs#installation), en utilisant `pip`.
+Ensuite, clonez le dépôt des exercices dans un terminal avec la commande
+
+    git clone git@github.com:jodemaey/cours-ULB-2025.git
+
+qui installera ceux-ci dans le répertoire `cours-ULB-2025`.
+
+Vous pouvez ensuite vous rendre dans ce répertoire et lancer
+
+    jupyter-notebook
+
+pour atterir sur l'interface de [Jupyter](https://jupyter.org/) et lancer les notebooks.
+
+> Remarque: La façon de cloner avec git et de lancer Jupyter peut différer si vous êtes sous Windows. 
 
 ## Introduction à Python et à Numpy
 
