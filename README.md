@@ -46,6 +46,8 @@ Pour apprendre le language Python si vous ne le maîtrisez pas déjà, nous sugg
 Pour apprendre à utiliser Numpy, nous suggérons la page sur le site officiel: https://numpy.org/learn/
 Celle-ci contient un grand nombre de tutoriaux, livres et vidéos.
 
+**Dans tous les cas, nous allons avancer pas-à-pas, donc vous pouvez apprendre le language en parallèle de cette série de notebooks.**
+
 ## Détail des notebooks
 
 Ci-dessous, le détail de chaque notebook contenant le cour est détaillé.
