@@ -55,5 +55,5 @@ Nous commençons par une introduction préliminaire:
 
 ### Notebook 0 - Introduction à Python et qgs
 
-Ce [premier notebook](./Cour%20PHYS-F-450%20--%20Partie%200%20-%20Introduction.ipynb) sert d'introduction au framework qgs. Il doit être parcouru et effectué par l'étudiant avant les cours en présentiel. Son but est de montrer comment utiliser le modèle, de vous permettre de vous familiariser avec ses paramètres, et de finalement l'intégrer pour déterminer ses trajectoires. Il se termine par une série d'exercices facultatifs.
+Ce [premier notebook](./Cour%20PHYS-F-450%20--%20Notebook%200%20-%20Introduction.ipynb) sert d'introduction au framework qgs. Il doit être parcouru et effectué par l'étudiant avant les cours en présentiel. Son but est de montrer comment utiliser le modèle, de vous permettre de vous familiariser avec ses paramètres, et de finalement l'intégrer pour déterminer ses trajectoires. Il se termine par une série d'exercices facultatifs.
 
