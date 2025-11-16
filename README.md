@@ -43,14 +43,14 @@ Pour apprendre le language Python si vous ne le maîtrisez pas déjà, nous sugg
 1. Le site de Python lui-même: https://www.python.org/doc/
 2. Le module Python 3 sur la CodeAcademy: https://www.codecademy.com/learn/learn-python-3
 
-Pour apprendre à utiliser Numpy, nous suggérons la page sur le site officiel: https://numpy.org/learn/
+Pour apprendre à utiliser Numpy, nous suggérons la page sur le site officiel: https://numpy.org/learn/.
 Celle-ci contient un grand nombre de tutoriaux, livres et vidéos.
 
 **Dans tous les cas, nous allons avancer pas-à-pas, donc vous pouvez apprendre le language en parallèle de cette série de notebooks.**
 
 ## Détail des notebooks
 
-Ci-dessous, le détail de chaque notebook contenant le cour est détaillé.
+Ci-dessous, le détail de chaque notebook contenu dans le cours est détaillé.
 Les notebooks seront ajoutés au fur et à mesure de la progression du cours.
 
 Nous commençons par une introduction préliminaire:
