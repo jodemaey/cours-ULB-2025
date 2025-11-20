@@ -23,7 +23,7 @@ Pour installer qgs et ces exercices, vous devez d'abord installer qgs sur votre 
 Suivez pour ce faire les [instructions d'installation](https://github.com/Climdyn/qgs#installation), en utilisant `pip`.
 Ensuite, clonez le dépôt des exercices dans un terminal avec la commande
 
-    git clone git@github.com:jodemaey/cours-ULB-2025.git
+    git clone https://github.com/jodemaey/cours-ULB-2025.git
 
 qui installera ceux-ci dans le répertoire `cours-ULB-2025`.
 
@@ -59,3 +59,6 @@ Nous commençons par une introduction préliminaire:
 
 Ce [premier notebook](./Cours%20PHYS-F-450%20--%20Notebook%200%20-%20Introduction.ipynb) sert d'introduction au framework qgs. Il doit être parcouru et effectué par l'étudiant avant les cours en présentiel. Son but est de montrer comment utiliser le modèle, de vous permettre de vous familiariser avec ses paramètres, et de finalement l'intégrer pour déterminer ses trajectoires. Il se termine par une série d'exercices facultatifs.
 
+### Notebook 1 - Calcul du plus grand exposant de Lyapunov
+
+Ce [deuxième notebook](./Cours%20PHYS-F-450%20--%20Notebook%201%20-%20Calcul%20du%20plus%20grand%20exposant%20de%20Lyapunov.ipynb) voit l'introduction du plus grand exposant de Lyapunov et de son calcul. Il sera l'object du premier cours.
