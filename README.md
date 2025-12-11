@@ -62,3 +62,7 @@ Ce [premier notebook](./Cours%20PHYS-F-450%20--%20Notebook%200%20-%20Introductio
 ### Notebook 1 - Calcul du plus grand exposant de Lyapunov
 
 Ce [deuxième notebook](./Cours%20PHYS-F-450%20--%20Notebook%201%20-%20Calcul%20du%20plus%20grand%20exposant%20de%20Lyapunov.ipynb) voit l'introduction du plus grand exposant de Lyapunov et de son calcul. Il sera l'object du premier cours.
+
+### Notebook 2 - Introduction au modèle MAOOAM
+
+Dans ce [troisième notebook](https://github.com/jodemaey/cours-ULB-2025/blob/main/Cours%20PHYS-F-450%20--%20Notebook%202%20-%20Mod%C3%A8le%20coupl%C3%A9%20oc%C3%A9an-atmosph%C3%A8re.ipynb), le modèle couplé océan-atmosphère MAOOAM est introduit, ainsi que le calcul de spectres de puissance, et de spectre des exposants de Lyapunov.
